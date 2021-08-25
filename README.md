@@ -31,4 +31,4 @@ _Bunkie-chan is a self-regenerating automatic liquidity providing protocol that 
     
     _-Remember, you can always see more detailed information about your wallet, and other wallets, on BscScan: https://bscscan.com_
     
-**Learn more about Bunkie-chan in the white paper: xxxxx**
+**Learn more about Bunkie-chan in the white paper: https://discord.gg/g9nJtE3qae**
