@@ -17,11 +17,11 @@ _Bunkie-chan is a self-regenerating automatic liquidity providing protocol that 
 4. Go to PancakeSwap: https://pancakeswap.finance/swap#/swap
 5. Connect your MetaMask wallet
 6. Your BNB balance should show up as the 'From' currency in their Exchange/Swap
-7. Click 'Select a currency' in the 'To' box and input the BUNKIE contract address: 0x0862647e4bb8d6dad223d9eeace5d75f09170153
+7. Click 'Select a currency' in the 'To' box and input the BUNKIE contract address: xxxxx
 8. Click 'BUNKIE' and verify it is the correct token
 9. Input the amount of BNB you want to spend or tokens you would like to acquire (make sure you leave enough BNB in your wallet for tx/gas fees)
 10. After purchasing BUNKIE, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
-11. Copy and paste the BUNKIE contract address: 0x0862647e4bb8d6dad223d9eeace5d75f09170153
+11. Copy and paste the BUNKIE contract address: xxxxx
 
     _-The fields should self-populate_
     
