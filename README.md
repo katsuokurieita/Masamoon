@@ -17,7 +17,7 @@ Bunkie-chan is a self-regenerating automatic liquidity providing protocol that p
 4. Go to PancakeSwap: https://pancakeswap.finance/swap#/swap
 5. Connect your MetaMask wallet
 6. Your BNB balance should show up as the 'From' currency in their Exchange/Swap
-7. Click 'Select a currency' in the 'To' box and input the HIKI contract address: xxxxx
+7. Click 'Select a currency' in the 'To' box and input the BUNKIE contract address: xxxxx
 8. Click 'BUNKIE' and verify it is the correct token
 9. Input the amount of BNB you want to spend or tokens you would like to acquire (make sure you leave enough BNB in your wallet for tx/gas fees)
 10. After purchasing BUNKIE, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
@@ -31,6 +31,4 @@ Bunkie-chan is a self-regenerating automatic liquidity providing protocol that p
     
     _-Remember, you can always see more detailed information about your wallet, and other wallets, on BscScan: https://bscscan.com_
     
-13. Welcome to the #BUNKIEArmy!
-
-**Learn more about Hikikomori Token in the white paper: xxxxx**
+**Learn more about Bunkie-chan in the white paper: xxxxx**
