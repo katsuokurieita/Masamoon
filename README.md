@@ -1,6 +1,6 @@
 # Bunkie-chan
 Bunkie-chan is a self-regenerating automatic liquidity providing protocol that pays out static rewards to holders and penalizes sellers.
------
+
 **Step-by-step Instructions for Purchasing BUNKIE Tokens**
 
 1. First, obtain some Binance Coin (BNB):
