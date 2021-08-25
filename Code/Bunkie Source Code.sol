@@ -27,7 +27,7 @@ Description:
 
 			Liquidity Pool (LP) Acquisition: A percentage of all transfer transactions is added to the PancakeSwap liquidity pool.
 
-	The break down of these fees are as follows -
+	The breakdown of these fees are as follows -
 
 		Reflection: 5% of the fee is distributed to all token holders in proportion to their token holdings. BUNKIE token balances have two different calculations: The first balance calculation is based on the traditional fixed number of tokens associated with a user’s address. The second balance calculation represents a user’s balance as a proportion of the total supply of the token.
 
@@ -35,7 +35,7 @@ Description:
 
 		Liquidity Pool Acquisition: 5% of the fee is to provide liquidity on PancakeSwap. To keep the liquidity pool balanced, 2.5% is added to BNB token and 2.5% is added to BUNKIE token.
 
-	Incentive breakdown -
+	Incentives -
 
 		Reflection: Holding the token long-term will result in redistribution awards automatically added to a holder's wallet.
 
@@ -779,7 +779,7 @@ contract BUNKIE is Context, IERC20, Ownable {
     constructor () public {
         _rOwned[_msgSender()] = _rTotal;
         
-        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0xD99D1c33F9fC3444f8101754aBC46c52416550D1);
+        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x10ED43C718714eb63d5aA57B78B54704E256024E);
          // Create a uniswap pair for this new token
         uniswapV2Pair = IUniswapV2Factory(_uniswapV2Router.factory())
             .createPair(address(this), _uniswapV2Router.WETH());
