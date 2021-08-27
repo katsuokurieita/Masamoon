@@ -12,7 +12,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 			
 Every token transfer incurs a 10% fee.
 
-**The breakdown of these fees are as follows:**
+**Fee breakdown:**
 
   - Reflection: 5% of the fee is distributed to all token holders in proportion to their token holdings. MASAMOON token balances have two different calculations: The first balance calculation is based on the traditional fixed number of tokens associated with a user’s address; The second balance calculation represents a user’s balance as a proportion of the total supply of the token:
 
