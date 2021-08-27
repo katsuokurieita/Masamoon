@@ -1,0 +1,39 @@
+BSC Testnet
+
+Masamoon contract:
+https://testnet.bscscan.com/token/0x073341c137fbf4d39ebaf21157575c161cab8874
+
+#####
+
+Successfully sent >500,000 tokens from creator address:
+https://testnet.bscscan.com/tx/0x1ed80b24d955e3d758a54cc33e6cbd86df7056493af44a00c1842950b7461b6c
+https://testnet.bscscan.com/tx/0xeb91a39fe48340790c55b64ae69ed9a42ec872946b77c3a634f8b6115cd57e23
+
+'User 1' tx failed when trying to send 750,000 tokens:
+Error - Fail with error 'Transfer amount exceeds the maxTxAmount.
+https://testnet.bscscan.com/tx/0xa842fc8b89c4ec8957b2646915a94ab6566d024055f6e677dadd3c83fd3bc28d
+
+'User 1' tx successful when sending 500K tokens to 'Dev', but about 10% was deducted for total of 450K:
+https://testnet.bscscan.com/tx/0xf9bc9c40fcd80b4599a3433ed7883cf4f4ada0a293c843ddf031758859fde772
+
+	^^ 23,380.845211302825706426 MASAMUNE added to contract address
+	
+	1.5M (from creator) + 450K (from user) + 487.621 (redistributed share)
+
+Sent 85M from creator to 'User 2' as part of SwapAndLiquify preparation (<50K tokens in creator wallet):
+https://testnet.bscscan.com/tx/0x8bf840e5b467be1898f29dc0e37e300b1289ffe680f8d3eb1573917e63adab3d
+
+'User 2' to 'User 1' 1M token tx failed (more than 500K):
+https://testnet.bscscan.com/tx/0x3fd026863aefb72821b3a9d9030b8d8b2f692135107583d4d70721e0f6df7443
+
+Sent 8,475,380 tokens from creator to 'Dev' - less than 50K remains in creator:
+https://testnet.bscscan.com/tx/0xef95896795ce76f569f9fddfe245889081372a0ab1f00afa73f6c393e6b92c20
+
+Sent 499,950 from 'User 2' to 'User 1' - only 449,955 received:
+https://testnet.bscscan.com/tx/0x0a9d0c0a07652e53c4335f0a03ff7bfcdbbcf4eee8aac642dfad4f35725871a4
+
+	^^ Another redistribution event
+
+SwapAndLiquify did not occur probably because there is no LP contract (WBNB-MASAMOON). S&L requires both BNB and MASAMOON tokens in the contract to execute; will most likely work on mainnet.
+
+If there is an issue, disable 'setSwapAndLiquify' via write on BscScan or remix.ethereum.
