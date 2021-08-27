@@ -1,7 +1,7 @@
-# Bunkie-chan
-_Bunkie-chan is a self-regenerating automatic liquidity providing protocol that pays out static rewards to holders and penalizes sellers._
+# Masamoon Token
+_Masamoon is a self-regenerating automatic liquidity providing protocol that pays out static rewards to holders and penalizes sellers._
 
-**Step-by-step Instructions for Purchasing BUNKIE Tokens**
+**Step-by-step Instructions for Purchasing MASAMOON Tokens**
 
 1. First, obtain some Binance Coin (BNB):
     
@@ -17,18 +17,18 @@ _Bunkie-chan is a self-regenerating automatic liquidity providing protocol that 
 4. Go to PancakeSwap: https://pancakeswap.finance/swap#/swap
 5. Connect your MetaMask wallet
 6. Your BNB balance should show up as the 'From' currency in their Exchange/Swap
-7. Click 'Select a currency' in the 'To' box and input the BUNKIE contract address: xxxxx
-8. Click 'BUNKIE' and verify it is the correct token
+7. Click 'Select a currency' in the 'To' box and input the MASAMOON contract address: xxxxx
+8. Click 'MASAMOON' and verify it is the correct token
 9. Input the amount of BNB you want to spend or tokens you would like to acquire (make sure you leave enough BNB in your wallet for tx/gas fees)
-10. After purchasing BUNKIE, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
-11. Copy and paste the BUNKIE contract address: xxxxx
+10. After purchasing MASAMOON, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
+11. Copy and paste the MASAMOON contract address: xxxxx
 
     _-The fields should self-populate_
     
-12. After you have added BUNKIE to your wallet, you will be able to see the balance, as well as send and receive tokens
+12. After you have added MASAMOON to your wallet, you will be able to see the balance, as well as send and receive tokens
 
     _-These instructions can be applied to any BEP-20, or even ERC-20, token_
     
     _-Remember, you can always see more detailed information about your wallet, and other wallets, on BscScan: https://bscscan.com_
     
-**Learn more about Bunkie-chan in the white paper: https://discord.gg/g9nJtE3qae**
+**Learn more about the Masamoon Project in our white paper: xxxxx**
