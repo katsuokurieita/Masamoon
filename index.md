@@ -2,7 +2,7 @@
 
 ![Masamoon Logo 400x400](https://user-images.githubusercontent.com/89506800/131190389-38929928-2ea9-45dc-b669-12c40ec18eb4.jpg)
 
-## Basic Information
+## Basic information
 
 _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Nyūdō Masamune (五郎入道正宗). He was widely recognized as Japan's greatest swordsmith; he created swords and daggers, known in Japanese as tachi and tantō respectively, in the Sōshū tradition. As no exact dates are known for Masamune's life, he has reached an almost legendary status._
 
@@ -19,7 +19,7 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 ## Tokenomics
 
-### **How does the MASAMOON token smart contract transfer function work?**
+### How does the MASAMOON token smart contract transfer function work?
   
 MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other BEP-20 tokens, but also includes some additional features in its transfer function. These features are Reflection and Liquidity Pool (LP) Acquisition:
 
@@ -29,7 +29,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 			
 **Every token transfer incurs a 10% fee.**
 
-### Fee Breakdown:
+### Fee breakdown:
 
   - Reflection: 5% of the fee is distributed to all token holders in proportion to their token holdings. MASAMOON token balances have two different calculations: The first balance calculation is based on the traditional fixed number of tokens associated with a user’s address; The second balance calculation represents a user’s balance as a proportion of the total supply of the token:
 
@@ -45,6 +45,6 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
 **IMPORTANT: Because of this special transaction function, it is recommended that traders set their slippage tolerance to 12%+ to prevent unnecessary loss.**
 	
-### 'SwapAndLiquify' Function Explanation:
+### 'SwapAndLiquify' function explained:
 	
   - After each transaction, a fee is charged and sent to the contract balance. When the contract balance reaches the 'numTokensSellToAddToLiquidity' amount, the following transaction will call the function 'SwapAndLiquify' which divides the contract balance in half; one part is swapped for WBNB and the second half remain in MASAMOON tokens. These two halves are then paired together and added to liquidity on PancakeSwap.
