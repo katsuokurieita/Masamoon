@@ -1,13 +1,16 @@
+# Masamoon Token ($MASAMOON)
+
 ## Basic Information
 
 _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Nyūdō Masamune (五郎入道正宗). He was widely recognized as Japan's greatest swordsmith; he created swords and daggers, known in Japanese as tachi and tantō respectively, in the Sōshū tradition. As no exact dates are known for Masamune's life, he has reached an almost legendary status._
 
 - Name: Masamoon
+- Type: BSC/BEP-20
 - Symbol: MASAMOON
 - Decimals: 18
-- Total Supply: 100,000,000
-- MaxTxAmount: 500,000
-- SwapAndLiquify Amount: 50,000
+- Total Supply: 10,000,000
+- MaxTxAmount: 25,000 (0.25% of total)
+- SwapAndLiquify Amount: 5,000 (0.05% of total)
 
 **[Start trading now!](https://pancakeswap.finance/swap)**
 
@@ -21,7 +24,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
   - Liquidity Pool (LP) Acquisition: A percentage of all transfer transactions is added to the PancakeSwap liquidity pool.
 			
-Every token transfer incurs a 10% fee.
+**Every token transfer incurs a 10% fee.**
 
 ### Fee breakdown:
 
