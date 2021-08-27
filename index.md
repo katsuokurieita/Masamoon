@@ -1,6 +1,6 @@
 ## Basic Information
 
-_Masamune (正宗), also known as Gorō Nyūdō Masamune (五郎入道正宗), is widely recognized as Japan's greatest swordsmith. He created swords and daggers, known in Japanese as tachi and tantō respectively, in the Sōshū tradition. As no exact dates are known for Masamune's life, he has reached an almost legendary status._
+_Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Nyūdō Masamune (五郎入道正宗). He was widely recognized as Japan's greatest swordsmith; he created swords and daggers, known in Japanese as tachi and tantō respectively, in the Sōshū tradition. As no exact dates are known for Masamune's life, he has reached an almost legendary status._
 
 - Name: Masamoon
 - Symbol: MASAMOON
