@@ -61,7 +61,7 @@ Description:
 		Decimals: 18
 		Total Supply: 100,000,000
 		MaxTxAmount: 500,000
-		numTokensSellToAddToLiquidity: 50,000
+		SwapAndLiquify Amount: 50,000
 	
 	Read about Masamoon's tokenomics here: https://github.com/katsuokurieita/Masamoon/blob/main/Tokenomics.md
 	
