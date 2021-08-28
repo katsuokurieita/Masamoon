@@ -9,7 +9,7 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 - Name: Masamoon
 - Symbol: MASAMOON
 - Type: BSC/BEP-20
-- Contract: xxxxx
+- Contract: 0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF
 - Decimals: 18
 - Total Supply: 10,000,000
 - MaxTxAmount: 25,000 (0.25% of total)
