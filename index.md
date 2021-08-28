@@ -55,7 +55,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
 ## Roadmap
 
-### PLANNING & DEVELOPMENT
+**Planning & Development**
 - ~~Create token name~~
 - ~~Create token logo~~
 - ~~Create GitHub profile~~
@@ -67,18 +67,18 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 - Create linktr.ee (update as needed)
 - Advertising templates (w/link, w/o links, etc)
 
-### PRE-LAUNCH
+**Pre-Launch**
 - ~~QA code~~
 - ~~Deploy contract~~
 - ~~Verify contract source code on BscScan~~
 - ~~Send 5% to publicly announced developer wallet~~
 
-### LAUNCH
+**Launch**
 - ~~Create WBNB-MASAMOON LP~~
 - ~~Lock LP (Team.finance quote: 0.1 BNB)~~
 - Renounce ownership (?)
 
-### POST-LAUNCH
+**Post-Launch**
 - Gather & distribute important links
 - Create Medium profile
 - Create Facebook page
@@ -91,7 +91,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 - Rugscreen check
 - Submit BscScan info update request
 
-### FUTURE
+**Future**
 - CoinGecko listing
 - CoinMarketCap listing
 - CertiK or other audit (tentative)
