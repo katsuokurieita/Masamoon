@@ -31,4 +31,4 @@ _Masamoon is a self-regenerating automatic liquidity providing protocol that pay
     
     _-Remember, you can always see more detailed information about your wallet, and other wallets, on BscScan: https://bscscan.com_
     
-**Learn more about the Masamoon Project in our white paper: xxxxx**
+**Learn more about the Masamoon Project in our white paper: www.masamoon.net**
