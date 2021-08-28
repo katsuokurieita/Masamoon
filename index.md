@@ -43,7 +43,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
 ### Incentives
 
-  - Reflection: Holding the token long-term will result in redistribution awards automatically added to a holder's wallet.
+  - Reflection: Holding the token long-term will result in redistribution rewards automatically added to a holder's wallet.
 
   - LP acquisition: Selling results in a 10% transfer fee that helps support and stabilize the price of the token.
 
