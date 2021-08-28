@@ -15,9 +15,11 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 - MaxTxAmount: 25,000 (0.25% of total)
 - SwapAndLiquify Amount: 5,000 (0.05% of total)
 
-500,000 tokens (5%) were sent to the developer wallet*: 0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720
+500K tokens (5%) were sent to the developer wallet*: 0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720
 
 **[Start trading now!](https://pancakeswap.finance/swap)**
+
+**[Step-by-step Instructions for Purchasing MASAMOON Tokens](https://github.com/katsuokurieita/Masamoon/blob/main/README.md)**
 
 ## Tokenomics
 
