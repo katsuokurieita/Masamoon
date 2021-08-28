@@ -15,6 +15,8 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 - MaxTxAmount: 25,000 (0.25% of total)
 - SwapAndLiquify Amount: 5,000 (0.05% of total)
 
+500,000 tokens (5%) were sent to the developer wallet*: 0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720
+
 **[Start trading now!](https://pancakeswap.finance/swap)**
 
 ## Tokenomics
@@ -48,3 +50,5 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 ### 'SwapAndLiquify' function explained
 	
   - After each transaction, a fee is charged and sent to the contract balance. When the contract balance reaches the 'numTokensSellToAddToLiquidity' amount, the following transaction will call the function 'SwapAndLiquify' which divides the contract balance in half; one part is swapped for WBNB and the second half remain in MASAMOON tokens. These two halves are then paired together and added to liquidity on PancakeSwap.
+
+*The owner(s) of the developer wallet have full discretion in deciding on how, where and when the allotted funds are spent.
