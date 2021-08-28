@@ -59,11 +59,18 @@ Description:
 		Name: Masamoon
 		Symbol: MASAMOON
 		Decimals: 18
-		Total Supply: 100,000,000
-		MaxTxAmount: 500,000
-		SwapAndLiquify Amount: 50,000
+		Total Supply: 10,000,000
+		MaxTxAmount: 25,000 (0.25%)
+		SwapAndLiquify Amount: 5,000 (0.05%)
 	
-	Read about Masamoon's tokenomics here: https://github.com/katsuokurieita/Masamoon/blob/main/Tokenomics.md
+	Breakdown of changes -
+	
+		-The decimals were increased from 9 to 18
+		-The total supply was reduced from 1Q to 10M
+		-The maximum transaction amount was reduced from 0.5% to 0.25%
+		-The 'numTokensSellToAddToLiquidity' amount was reduced, but percentage remained the same (0.05%)
+		
+	Read about Masamoon's tokenomics in more detail here: https://masamoon.net
 	
  */
 
@@ -761,7 +768,7 @@ contract MASAMOON is Context, IERC20, Ownable {
     address[] private _excluded;
    
     uint256 private constant MAX = ~uint256(0);
-    uint256 private _tTotal = 100000000 * 10**9 * 10**9;
+    uint256 private _tTotal = 10000000 * 10**9 * 10**9;
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
@@ -781,8 +788,8 @@ contract MASAMOON is Context, IERC20, Ownable {
     bool inSwapAndLiquify;
     bool public swapAndLiquifyEnabled = true;
     
-    uint256 public _maxTxAmount = 500000 * 10**9 * 10**9;
-    uint256 private numTokensSellToAddToLiquidity = 50000 * 10**9 * 10**9;
+    uint256 public _maxTxAmount = 25000 * 10**9 * 10**9;
+    uint256 private numTokensSellToAddToLiquidity = 5000 * 10**9 * 10**9;
     
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
     event SwapAndLiquifyEnabledUpdated(bool enabled);
