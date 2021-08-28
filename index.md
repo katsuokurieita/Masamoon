@@ -103,6 +103,12 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
 [https://bscscan.com/tx/0xc61fe3ab4d1867be33b7d605b2e459154d28fb2064bfa5d65dade3df0e2bb424](https://bscscan.com/tx/0xc61fe3ab4d1867be33b7d605b2e459154d28fb2064bfa5d65dade3df0e2bb424)
 
+## Ownership Renounced
+
+[https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c)
+
+[https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c#eventlog](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c#eventlog)
+
 ## Building Trust - Audits, Checks & Scans
 
 **TechRate Quick Audit**
