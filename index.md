@@ -9,13 +9,13 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 - Name: Masamoon
 - Symbol: MASAMOON
 - Type: BSC/BEP-20
-- Contract: 0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF
+- Contract: [0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF](https://bscscan.com/address/0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF)
 - Decimals: 18
 - Total Supply: 10,000,000
 - MaxTxAmount: 25,000 (0.25% of total)
 - SwapAndLiquify Amount: 5,000 (0.05% of total)
 
-500K tokens (5%) were sent to the developer wallet*: 0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720
+500K tokens (5%) were sent to the developer wallet*: [0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720](https://bscscan.com/address/0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720)
 
 **[Start trading now!](https://pancakeswap.finance/swap)**
 
