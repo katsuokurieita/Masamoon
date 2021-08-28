@@ -105,23 +105,23 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
 ## Building Trust - Audits, Checks & Scans
 
-### TechRate Quick Audit
+**TechRate Quick Audit**
 
 Coming soon!
 
-### PooCoin Rug Check
+**PooCoin Rug Check**
 
 [https://poocoin.app/rugcheck/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af/dev-activity](https://poocoin.app/rugcheck/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af/dev-activity)
 
-### Token Sniffer
+**Token Sniffer**
 
 [https://tokensniffer.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af](https://tokensniffer.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
 
-### Rugscreen
+**Rugscreen**
 
 Coming soon!
 
-### CertiK Audit
+**CertiK Audit**
 
 Tentative
 
