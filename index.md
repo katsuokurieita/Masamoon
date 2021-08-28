@@ -53,6 +53,50 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 	
   - After each transaction, a fee is charged and sent to the contract balance. When the contract balance reaches the 'numTokensSellToAddToLiquidity' amount, the following transaction will call the function 'SwapAndLiquify' which divides the contract balance in half; one part is swapped for WBNB and the second half remain in MASAMOON tokens. These two halves are then paired together and added to liquidity on PancakeSwap.
 
+## Roadmap
+
+### PLANNING & DEVELOPMENT
+- ~~Create token name~~
+- ~~Create token logo~~
+- ~~Create GitHub profile~~
+- ~~Create diff of SafeMoon & MASA code~~
+- ~~Write Solidity code (mirrored from SafeMoon with adjustments)~~
+- ~~Create Discord server & configure~~
+- ~~Create Telegram group (Admin: Katsuo クリエイター)~~
+- ~~Create Twitter~~
+- Create linktr.ee (update as needed)
+- Advertising templates (w/link, w/o links, etc)
+
+### PRE-LAUNCH
+- ~~QA code~~
+- ~~Deploy contract~~
+- ~~Verify contract source code on BscScan~~
+- ~~Send 5% to publicly announced developer wallet~~
+
+### LAUNCH
+- ~~Create WBNB-MASAMOON LP~~
+- ~~Lock LP (Team.finance quote: 0.1 BNB)~~
+- Renounce ownership (?)
+
+### POST-LAUNCH
+- Gather & distribute important links
+- Create Medium profile
+- Create Facebook page
+- Create Instagram
+- Create sub Reddit (?)
+- Update website
+- Domain email address
+- TechRate quick audit
+- PooCoin rug check
+- Rugscreen check
+- Submit BscScan info update request
+
+### FUTURE
+- CoinGecko listing
+- CoinMarketCap listing
+- CertiK or other audit (tentative)
+- More...
+
 ## Social Media
 
 - [Telegram](https://t.me/masamoontkn)
