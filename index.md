@@ -76,7 +76,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 **Launch**
 - ~~Create WBNB-MASAMOON LP~~
 - ~~Lock LP (Team.finance quote: 0.1 BNB)~~
-- Renounce ownership (?)
+- ~~Renounce ownership~~
 
 **Post-Launch**
 - Gather & distribute important links
