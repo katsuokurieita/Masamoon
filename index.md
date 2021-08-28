@@ -55,10 +55,10 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
 ## Social Media
 
-Telegram: https://t.me/masamoontkn
-Discord: https://discord.gg/g9nJtE3qae
-Twitter: https://twitter.com/masamoontkn
-Medium: https://tatsuhirodev.medium.com
-GitHub: https://github.com/katsuokurieita
+- Telegram: https://t.me/masamoontkn
+- Discord: https://discord.gg/g9nJtE3qae
+- Twitter: https://twitter.com/masamoontkn
+- Medium: https://tatsuhirodev.medium.com
+- GitHub: https://github.com/katsuokurieita
 
 _*The owner(s) of the developer wallet have full discretion in deciding on how, where and when the allotted funds are spent._
