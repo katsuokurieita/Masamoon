@@ -59,8 +59,8 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 - ~~Create token name~~
 - ~~Create token logo~~
 - ~~Create GitHub profile~~
-- ~~Create diff of SafeMoon & MASA code~~
 - ~~Write Solidity code (mirrored from SafeMoon with adjustments)~~
+- ~~Create diff of SafeMoon & MASA code~~
 - ~~Create Discord server & configure~~
 - ~~Create Telegram group (Admin: Katsuo クリエイター)~~
 - ~~Create Twitter~~
