@@ -17,11 +17,11 @@ _Masamoon is a self-regenerating automatic liquidity providing protocol that pay
 4. Go to PancakeSwap: https://pancakeswap.finance/swap#/swap
 5. Connect your MetaMask wallet
 6. Your BNB balance should show up as the 'From' currency in their Exchange/Swap
-7. Click 'Select a currency' in the 'To' box and input the MASAMOON contract address: xxxxx
+7. Click 'Select a currency' in the 'To' box and input the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
 8. Click 'MASAMOON' and verify it is the correct token
 9. Input the amount of BNB you want to spend or tokens you would like to acquire (make sure you leave enough BNB in your wallet for tx/gas fees)
 10. After purchasing MASAMOON, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
-11. Copy and paste the MASAMOON contract address: xxxxx
+11. Copy and paste the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
 
     _-The fields should self-populate_
     
