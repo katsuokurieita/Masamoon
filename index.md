@@ -17,7 +17,7 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 500K tokens (5%) were sent to the developer wallet*: [0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720](https://bscscan.com/address/0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720)
 
-**[Start trading now!](https://pancakeswap.finance/swap)**
+**[Start trading now!](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)**
 
 **[Step-by-step Instructions for Purchasing MASAMOON Tokens](https://github.com/katsuokurieita/Masamoon/blob/main/README.md)**
 
@@ -53,4 +53,12 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 	
   - After each transaction, a fee is charged and sent to the contract balance. When the contract balance reaches the 'numTokensSellToAddToLiquidity' amount, the following transaction will call the function 'SwapAndLiquify' which divides the contract balance in half; one part is swapped for WBNB and the second half remain in MASAMOON tokens. These two halves are then paired together and added to liquidity on PancakeSwap.
 
-*The owner(s) of the developer wallet have full discretion in deciding on how, where and when the allotted funds are spent.
+## Social Media
+
+Telegram: https://t.me/masamoontkn
+Discord: https://discord.gg/g9nJtE3qae
+Twitter: https://twitter.com/masamoontkn
+Medium: https://tatsuhirodev.medium.com
+GitHub: https://github.com/katsuokurieita
+
+_*The owner(s) of the developer wallet have full discretion in deciding on how, where and when the allotted funds are spent._
