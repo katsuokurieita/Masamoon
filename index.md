@@ -132,5 +132,7 @@ Tentative
 - [Twitter](https://twitter.com/masamoontkn)
 - [Medium](https://tatsuhirodev.medium.com)
 - [GitHub](https://github.com/katsuokurieita)
+- Facebook (coming soon)
+- Instagram (coming soon)
 
 _*The owner(s) of the developer wallet have full discretion in deciding on how, where and when the allotted funds are spent._
