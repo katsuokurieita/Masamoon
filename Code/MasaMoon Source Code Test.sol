@@ -70,7 +70,7 @@ Description:
 		-The maximum transaction amount was reduced from 0.5% to 0.25%
 		-The 'numTokensSellToAddToLiquidity' amount was reduced, but percentage remained the same (0.05%)
 		
-	Read about Masamoon's tokenomics in more detail here: https://masamoon.net
+	Read about Masamoon's tokenomics in more detail here: www.masamoon.net
 	
  */
 
