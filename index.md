@@ -21,6 +21,8 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 ### [Start trading now!](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)
 
+**_Important: The max transaction amount is **25,000!** Anything more than that will fail. Also, **set slippage to around 12%+** since there is a 10% wallet redistribution/liquidity fee!_**
+
 ## Tokenomics
 
 ### How does the Masamoon token smart contract transfer function work?
@@ -45,13 +47,49 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
   - Reflection: Holding the token long-term will result in redistribution rewards automatically added to a holder's wallet.
 
-  - LP acquisition: Selling results in a 10% transfer fee that helps support and stabilize the price of the token.
+  - LP acquisition: Selling results in a transfer fee that helps support and stabilize the price of the token.
 
 **IMPORTANT: Because of this special transaction function, it is recommended that traders set their slippage tolerance to 12%+ to prevent unnecessary loss.**
 	
 ### 'SwapAndLiquify' function explained
 	
   - After each transaction, a fee is charged and sent to the contract balance. When the contract balance reaches the 'numTokensSellToAddToLiquidity' amount, the following transaction will call the function 'SwapAndLiquify' which divides the contract balance in half; one part is swapped for WBNB and the second half remain in MASAMOON tokens. These two halves are then paired together and added to liquidity on PancakeSwap.
+
+## Step-by-step instructions for purchasing MASAMOON tokens
+
+1. First, obtain some Binance Coin (BNB):
+    
+    _-Buy BNB directly from Binance here: https://www.binance.com/en/buy-sell-crypto_
+    
+    _-Or, purchase it from other centralized exchanges_
+    
+2. Download and install a MetaMask wallet on your computer or phone (and be sure to backup your password, private key(s) and secret recovery phrase): https://metamask.io
+    
+    _-Also make sure you add and switch to the Binance Smart Chain (Mainnet) within your wallet. Review these instructions to learn how: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain_
+    
+3. Go back to the site or app where you purchased BNB and send it to your MetaMask wallet address (it is located near the top and looks something like '0xC444...3CBA' ~ it is highly recommended that you copy and paste it directly, rather than inputting each character manually to avoid mistakes and financial loss)
+4. Go to PancakeSwap: https://pancakeswap.finance/swap#/swap
+5. Connect your MetaMask wallet
+6. Your BNB balance should show up as the 'From' currency in their Exchange/Swap
+7. Click 'Select a currency' in the 'To' box and input the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
+8. Click 'MASAMOON' and verify it is the correct token
+9. Input the amount of BNB you want to spend or tokens you would like to acquire (make sure you leave enough BNB in your wallet for tx/gas fees)
+
+    _-Important: The max transaction amount is **25,000 MASAMOON**! Anything more than that will fail. Also, **set slippage to around 12%+** since there is a 10% wallet redistribution/liquidity fee!_
+
+11. After purchasing MASAMOON, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
+12. Copy and paste the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
+
+    _-The fields should self-populate_
+    
+12. After you have added MASAMOON to your wallet, you will be able to see the balance, as well as send and receive tokens
+
+    _-These instructions can be applied to any BEP-20, or even ERC-20, token_
+    
+    _-Remember, you can always see more detailed information about your wallet, and other wallets, on BscScan: https://bscscan.com_
+    
+**Learn more about the Masamoon Project in our white paper: https://www.masamoon.net**
+
 
 ## Roadmap
 
