@@ -17,9 +17,9 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 500K tokens (5%) were [sent](https://bscscan.com/tx/0x2b96cf4c1f8fafbe13d863bed56e75fa75467030bf661dd91d8ae5aa51583f47) to the developer wallet*: [0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720](https://bscscan.com/address/0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720)
 
-### [Step-by-step instructions for purchasing MASAMOON tokens](https://github.com/katsuokurieita/Masamoon/blob/main/README.md)**
-
 ### [Start trading now!](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)
+
+**[Step-by-step instructions for purchasing MASAMOON tokens](#step-by-step-instructions-for-purchasing-masamoon-tokens)**
 
 **_Important: The max transaction amount is **25,000!** Anything more than that will fail. Also, **set slippage to around 12%+** since there is a 10% wallet redistribution/liquidity fee!_**
 
