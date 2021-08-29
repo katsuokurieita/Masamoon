@@ -105,7 +105,6 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 - ~~Create Discord server & configure~~
 - ~~Create Telegram group (Admin: Katsuo クリエイター)~~
 - ~~Create Twitter~~
-- Create linktr.ee (update as needed)
 - ~~Advertising templates (w/link, w/o links, etc)~~
 
 **Pre-Launch**
@@ -142,35 +141,35 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 
 ## Building Trust - Audits, Checks, Scans & More
 
-**Proof of LP lock through TrustSwap**
+**Proof of LP lock through TrustSwap:**
 
 [Team.finance link](https://team.finance/view-coin/0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF?name=Masamoon&symbol=MASAMOON)
 
 [BscScan transaction link](https://bscscan.com/tx/0xc61fe3ab4d1867be33b7d605b2e459154d28fb2064bfa5d65dade3df0e2bb424)
 
-**Ownership Renounced**
+**Ownership Renounced:**
 
 [BscScan transaction link](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c)
 
 [Transaction event log](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c#eventlog)
 
-**PooCoin Rug Check**
+**PooCoin Rug Check:**
 
 [Link](https://poocoin.app/rugcheck/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af/dev-activity)
 
-**Token Sniffer**
+**Token Sniffer:**
 
 [Link](https://tokensniffer.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
 
-**Rugscreen**
+**Rugscreen:**
 
 Coming soon!
 
-**TechRate Quick Audit**
+**TechRate Quick Audit:**
 
 Coming soon!
 
-**CertiK Audit**
+**CertiK Audit:**
 
 Tentative.
 
