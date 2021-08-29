@@ -51,7 +51,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
   - LP acquisition: Selling results in a transfer fee that helps support and stabilize the price of the token.
 
-**IMPORTANT: Because of this special transaction function, it is recommended that traders set their slippage tolerance to 12%+ to prevent unnecessary loss.**
+_IMPORTANT: Because of this special transaction function, it is recommended that traders set their slippage tolerance to 12%+ to prevent unnecessary loss._
 	
 ### 'SwapAndLiquify' function explained
 	
