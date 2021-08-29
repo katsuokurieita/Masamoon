@@ -15,15 +15,15 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 - MaxTxAmount: 25,000 (0.25% of total)
 - SwapAndLiquify Amount: 5,000 (0.05% of total)
 
------
-
 500K tokens (5% of total supply) were [sent](https://bscscan.com/tx/0x2b96cf4c1f8fafbe13d863bed56e75fa75467030bf661dd91d8ae5aa51583f47) to the [developer wallet](https://bscscan.com/address/0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720)*
 
 **[Start trading on PancakeSwap!](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)**
 
 **[Step-by-step instructions for purchasing MASAMOON tokens](#step-by-step-instructions-for-purchasing-masamoon-tokens)**
 
-**_MUST READ: The max transaction amount is 25,000! Anything more than that will fail. Also, set slippage to around 12%+ since there is a 10% wallet redistribution/liquidity fee!_**
+**_MUST READ: The max transaction amount is 25,000 tokens! Anything more than that will fail. Also, set slippage to around 12%+ since there is a 10% wallet redistribution/liquidity fee!_**
+
+-----
 
 ## Tokenomics
 
@@ -56,6 +56,8 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 ### 'SwapAndLiquify' function explained
 	
   - After each transaction, a fee is charged and sent to the contract balance. When the contract balance reaches the 'numTokensSellToAddToLiquidity' amount, the following transaction will call the function 'SwapAndLiquify' which divides the contract balance in half; one part is swapped for WBNB and the second half remain in MASAMOON tokens. These two halves are then paired together and added to liquidity on PancakeSwap.
+
+-----
 
 ## Step-by-step instructions for purchasing MASAMOON tokens
 
@@ -92,6 +94,7 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
     
 **Learn more about the Masamoon Project in our white paper: https://www.masamoon.net**
 
+-----
 
 ## Roadmap
 
@@ -137,19 +140,21 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 - CertiK or other audit (tentative)
 - More...
 
-### Proof of LP lock through TrustSwap
+-----
+
+## Building Trust - Audits, Checks, Scans & More
+
+**Proof of LP lock through TrustSwap**
 
 [Team.finance link](https://team.finance/view-coin/0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF?name=Masamoon&symbol=MASAMOON)
 
 [BscScan transaction link](https://bscscan.com/tx/0xc61fe3ab4d1867be33b7d605b2e459154d28fb2064bfa5d65dade3df0e2bb424)
 
-## Ownership Renounced
+**Ownership Renounced**
 
 [BscScan transaction link](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c)
 
 [Transaction event log](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c#eventlog)
-
-## Building Trust - Audits, Checks, Scans & More
 
 **PooCoin Rug Check**
 
@@ -170,6 +175,8 @@ Coming soon!
 **CertiK Audit**
 
 Tentative.
+
+-----
 
 ## Social Media
 
