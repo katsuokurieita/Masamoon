@@ -23,7 +23,7 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 **_MUST READ: The max transaction amount is 25,000 tokens! Anything more than that will fail. Also, set slippage to around 12%+ since there is a 10% wallet redistribution/liquidity fee!_**
 
-![Masamoon PancakeSwap QR Code 1](https://user-images.githubusercontent.com/89506800/131262387-a8c4b5b1-ad3f-43dd-ab06-a41e50df9c44.png)
+![Masamoon PancakeSwap QR Code JPG](https://user-images.githubusercontent.com/89506800/131262738-4a1bf907-4aab-42bc-8ff9-a5a8784c6a15.jpg)
 
 -----
 
@@ -65,16 +65,16 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 
 1. First, obtain some Binance Coin (BNB):
     
-    _-Buy BNB directly from Binance here: [https://www.binance.com/en/buy-sell-crypto](https://www.binance.com/en/buy-sell-crypt)_
+    _-Buy BNB directly from Binance [here](https://www.binance.com/en/buy-sell-crypt)_
     
     _-Or, purchase it from other centralized exchanges_
     
-2. Download and install a MetaMask wallet on your computer or phone (and be sure to backup your password, private key(s) and secret recovery phrase): [https://metamask.io](https://metamask.io):
+2. [Download and install a MetaMask](https://metamask.io) wallet on your computer or phone (and be sure to backup your password, private key(s) and secret recovery phrase)
     
-    _-Also make sure you add and switch to the Binance Smart Chain (Mainnet) within your wallet. Review these instructions to learn how: [https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)_
+    _-Also make sure you add and switch to the Binance Smart Chain (Mainnet) within your wallet. [Review these instructions to learn how](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
     
 3. Go back to the site or app where you purchased BNB and send it to your MetaMask wallet address (it is located near the top and looks something like '0xC444...3CBA' ~ it is highly recommended that you copy and paste it directly, rather than inputting each character manually to avoid mistakes and financial loss)
-4. Go to PancakeSwap: [https://pancakeswap.finance/swap#/swap](https://pancakeswap.finance/swap#/swap)
+4. Go to [PancakeSwap](https://pancakeswap.finance/swap#/swap)
 5. Connect your MetaMask wallet
 6. Your BNB balance should show up as the 'From' currency in their Exchange/Swap
 7. Click 'Select a currency' in the 'To' box and input the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
@@ -92,7 +92,7 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 
     _-These instructions can be applied to any BEP-20, or even ERC-20, token_
     
-    _-Remember, you can always see more detailed information about your wallet, and other wallets, on BscScan: [https://bscscan.com](https://bscscan.com)_
+    _-Remember, you can always see more detailed information about your wallet, and other wallets, on [BscScan](https://bscscan.com)_
     
 -----
 
