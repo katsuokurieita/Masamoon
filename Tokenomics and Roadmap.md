@@ -1,5 +1,7 @@
 ## Tokenomics
 
+_Note: This page is outdated. Visit: https://www.masamoon.net_
+
 ### How does the MASAMOON token smart contract transfer function work?
   
 MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other BEP-20 tokens, but also includes some additional features in its transfer function. These features are Reflection and Liquidity Pool (LP) Acquisition:
