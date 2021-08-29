@@ -23,6 +23,8 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 **_MUST READ: The max transaction amount is 25,000 tokens! Anything more than that will fail. Also, set slippage to around 12%+ since there is a 10% wallet redistribution/liquidity fee!_**
 
+![Masamoon PancakeSwap QR Code 1](https://user-images.githubusercontent.com/89506800/131262387-a8c4b5b1-ad3f-43dd-ab06-a41e50df9c44.png)
+
 -----
 
 ## Tokenomics
