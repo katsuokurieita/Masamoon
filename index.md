@@ -23,7 +23,7 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 **[Step-by-step instructions for purchasing MASAMOON tokens](#step-by-step-instructions-for-purchasing-masamoon-tokens)**
 
-**_MUST READ: The max transaction amount is **25,000!** Anything more than that will fail. Also, **set slippage to around 12%+** since there is a 10% wallet redistribution/liquidity fee!_**
+**_MUST READ: The max transaction amount is 25,000! Anything more than that will fail. Also, set slippage to around 12%+ since there is a 10% wallet redistribution/liquidity fee!_**
 
 ## Tokenomics
 
