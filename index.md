@@ -192,4 +192,6 @@ Tentative.
 - Facebook (coming soon)
 - Instagram (coming soon)
 
+[Scroll to top](#)
+
 _*The owner(s) of the developer wallet have full discretion in deciding on how, where and when the allotted funds are spent._
