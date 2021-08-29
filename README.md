@@ -22,7 +22,9 @@ _Note: These instructions are outdated. Visit: https://www.masamoon.net_
 7. Click 'Select a currency' in the 'To' box and input the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
 8. Click 'MASAMOON' and verify it is the correct token
 9. Input the amount of BNB you want to spend or tokens you would like to acquire (make sure you leave enough BNB in your wallet for tx/gas fees)
+
     _-Important: The max transaction amount is **25,000 MASAMOON**! Anything more than that will fail. Also, **set slippage to around 12%+** since there is a 10% wallet redistribution/liquidity fee!_
+
 10. After purchasing MASAMOON, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
 12. Copy and paste the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
 
