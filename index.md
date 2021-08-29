@@ -17,9 +17,9 @@ _Masamoon Token's name was inspired by Masamune (正宗), also known as Gorō Ny
 
 500K tokens (5%) were [sent](https://bscscan.com/tx/0x2b96cf4c1f8fafbe13d863bed56e75fa75467030bf661dd91d8ae5aa51583f47) to the developer wallet*: [0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720](https://bscscan.com/address/0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720)
 
-**[Start trading now!](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)**
+### [Step-by-step instructions for purchasing MASAMOON tokens](https://github.com/katsuokurieita/Masamoon/blob/main/README.md)**
 
-**[Step-by-step Instructions for Purchasing MASAMOON Tokens](https://github.com/katsuokurieita/Masamoon/blob/main/README.md)**
+### [Start trading now!](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)
 
 ## Tokenomics
 
@@ -65,7 +65,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 - ~~Create Telegram group (Admin: Katsuo クリエイター)~~
 - ~~Create Twitter~~
 - Create linktr.ee (update as needed)
-- Advertising templates (w/link, w/o links, etc)
+- ~~Advertising templates (w/link, w/o links, etc)~~
 
 **Pre-Launch**
 - ~~QA code~~
@@ -79,7 +79,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 - ~~Renounce ownership~~
 
 **Post-Launch**
-- Gather & distribute important links
+- ~~Gather & distribute important links~~
 - Create Medium profile
 - Create Facebook page
 - Create Instagram
@@ -87,8 +87,8 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 - Update website
 - Domain email address
 - TechRate quick audit
-- PooCoin rug check
-- Rugscreen check
+- ~~PooCoin rug check~~
+- ~~Rugscreen check~~
 - Submit BscScan info update request
 
 **Future**
@@ -109,11 +109,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
 [Transaction event log](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c#eventlog)
 
-## Building Trust - Audits, Checks & Scans
-
-**TechRate Quick Audit**
-
-Coming soon!
+## Building Trust - Audits, Checks, Scans & More
 
 **PooCoin Rug Check**
 
@@ -124,6 +120,10 @@ Coming soon!
 [Link](https://tokensniffer.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
 
 **Rugscreen**
+
+Coming soon!
+
+**TechRate Quick Audit**
 
 Coming soon!
 
