@@ -1,6 +1,6 @@
 # Masamoon Token ($MASAMOON)
 
-![Masamoon Logo 400x400](https://user-images.githubusercontent.com/89506800/131190389-38929928-2ea9-45dc-b669-12c40ec18eb4.jpg)
+![MASAMOON Logo 400x400](https://user-images.githubusercontent.com/89506800/131245140-08e98430-870f-4e5d-855b-9fb46f6e6e2c.jpg)
 
 ## Basic Information
 
