@@ -33,7 +33,7 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
   - Liquidity Pool (LP) Acquisition: A percentage of all transfer transactions is added to the PancakeSwap liquidity pool.
 			
-**Every token transfer incurs a 10% fee.**
+**_Every token transfer incurs a 10% fee._**
 
 ### Fee breakdown
 
@@ -77,8 +77,8 @@ MASAMOON is a BEP-20 token on the Binance Smart Chain. It works like all other B
 
     _-Important: The max transaction amount is **25,000 MASAMOON**! Anything more than that will fail. Also, **set slippage to around 12%+** since there is a 10% wallet redistribution/liquidity fee!_
 
-11. After purchasing MASAMOON, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
-12. Copy and paste the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
+10. After purchasing MASAMOON, open your MetaMask wallet, make sure you are connected to the Binance Smart Chain network (drop down near the top right, next to your account icon), click the 'Assets' tab and then 'Add Token'
+11. Copy and paste the MASAMOON contract address: **0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF**
 
     _-The fields should self-populate_
     
