@@ -128,7 +128,8 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 - Domain email address
 - TechRate quick audit
 - ~~PooCoin rug check~~
-- ~~Rugscreen check~~
+- ~~Token Sniffer~~
+- Rugscreen check
 - Submit BscScan info update request
 
 **Future**
@@ -138,6 +139,10 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 - More...
 
 -----
+
+## Important Links
+
+Coming soon!
 
 ## Building Trust - Audits, Checks, Scans & More
 
