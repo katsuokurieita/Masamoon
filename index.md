@@ -144,10 +144,10 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 
 ## Important Links
 
-- Contract address: [0xedefd156430a2c43dc9a4c6c2c31db254dabf8af](https://bscscan.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
-- Contract creation tx: [0xcd452f5f04862dd6a594cb5255374e33caa64efa31e152ee0f6097fd4bc5a887](https://bscscan.com/tx/0xcd452f5f04862dd6a594cb5255374e33caa64efa31e152ee0f6097fd4bc5a887)
-- Creator address: [0x63f5d126Cd243c22609c628cA88407E3f02d8B75](https://bscscan.com/address/0x63f5d126cd243c22609c628ca88407e3f02d8b75)
-- Developer wallet: [0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720](https://bscscan.com/address/0x4daf1e9df7955699a5cb090aa3406dd9d97b4720)
+- [Contract address](https://bscscan.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
+- [Contract creation tx](https://bscscan.com/tx/0xcd452f5f04862dd6a594cb5255374e33caa64efa31e152ee0f6097fd4bc5a887)
+- [Creator address](https://bscscan.com/address/0x63f5d126cd243c22609c628ca88407e3f02d8b75)
+- [Developer wallet](https://bscscan.com/address/0x4daf1e9df7955699a5cb090aa3406dd9d97b4720)
 - [Masamoon Token's info/analytics page on PancakeSwap](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)
 - [Official website](https://masamoon.net)
 - [Telegram](https://t.me/masamoontkn)
