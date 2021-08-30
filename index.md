@@ -149,8 +149,28 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 - Creator address: [0x63f5d126Cd243c22609c628cA88407E3f02d8B75](https://bscscan.com/address/0x63f5d126cd243c22609c628ca88407e3f02d8b75)
 - Developer wallet: [0x4daf1e9df7955699A5cB090aa3406Dd9D97b4720](https://bscscan.com/address/0x4daf1e9df7955699a5cb090aa3406dd9d97b4720)
 - [Masamoon Token's info/analytics page on PancakeSwap](https://pancakeswap.info/pool/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)
-- More to come...
-
+- [Official website](https://masamoon.net)
+- [Telegram](https://t.me/masamoontkn)
+- [Twitter](https://twitter.com/masamoontkn)
+- [Discord](https://discord.gg/g9nJtE3qae)
+- [Medium](https://tatsuhirodev.medium.com/)
+- [Token metadata](https://github.com/katsuokurieita/Masamoon/blob/main/Metadata.txt)
+- [Verified source code](https://bscscan.com/address/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af#code#L1)
+- [Token tracker](https://bscscan.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
+- [500K transferred to dev wallet](https://bscscan.com/tx/0x2b96cf4c1f8fafbe13d863bed56e75fa75467030bf661dd91d8ae5aa51583f47)
+- [Token holders](https://bscscan.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af#balances)
+- [WBNB-MASAMOON LP holders](https://bscscan.com/token/0xf71f572a175a4efb5786f139a1d2e5bcb815779f#balances)
+- [Team Lock link (LP locked 8/27/21 - 8/27/22)](https://team.finance/view-coin/0xEdefd156430a2c43dC9A4c6c2C31DB254DABf8AF?name=Masamoon&symbol=MASAMOON)
+- [Team Lock BscScan transaction](https://bscscan.com/tx/0xc61fe3ab4d1867be33b7d605b2e459154d28fb2064bfa5d65dade3df0e2bb424)
+- [Ownership renounced](https://bscscan.com/tx/0x38a1bd54e3654996b0e56b49aa643a3dbccc8316919af757748c2c780233e41c)
+- [WBNB-MASAMOON DEXTools link](https://www.dextools.io/app/pancakeswap/pair-explorer/0xf71f572a175a4efb5786f139a1d2e5bcb815779f)
+- [BSC DEX trades link](https://bscscan.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af#tokenTrade)
+- [PooCoin Charts](https://poocoin.app/tokens/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
+- [Rug Checker](https://poocoin.app/rugcheck/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af/dev-activity)
+- [Token Sniffer](https://tokensniffer.com/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
+- [Fool's Tools](https://www.foolstools.net/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
+- [Bitquery](https://explorer.bitquery.io/bsc/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
+- [BSCcheck.eu](https://www.bscheck.eu/)
 
 ## Building Trust - Audits, Checks, Scans & More
 
