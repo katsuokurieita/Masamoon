@@ -172,6 +172,8 @@ _IMPORTANT: Because of this special transaction function, it is recommended that
 - [Bitquery](https://explorer.bitquery.io/bsc/token/0xedefd156430a2c43dc9a4c6c2c31db254dabf8af)
 - [BSCcheck.eu](https://www.bscheck.eu/)
 
+-----
+
 ## Building Trust - Audits, Checks, Scans & More
 
 **Proof of LP lock through TrustSwap:**
