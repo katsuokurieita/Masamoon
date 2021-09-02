@@ -218,6 +218,8 @@ Tentative.
 - Facebook (coming soon)
 - Instagram (coming soon)
 
+-----
+
 ## Team
 
 ![Katsuo](https://user-images.githubusercontent.com/89506800/131814822-08e71b8c-9146-40bb-94bb-042d6768b5a0.jpg)
