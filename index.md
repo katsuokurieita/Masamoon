@@ -222,13 +222,13 @@ Tentative.
 
 ## Team
 
-![Katsuo](https://user-images.githubusercontent.com/89506800/131814822-08e71b8c-9146-40bb-94bb-042d6768b5a0.jpg)
+![Katsuo](https://user-images.githubusercontent.com/89506800/131894506-4fc72e0a-c22e-44cf-9c06-c52aa12b9596.jpg)
 
 The Masamoon Token project was created by Katsuo Kurieita (クリエイタ).
 
 _Katsuo specializes in the Solidity programming language and also has experience with using Python, Javascript, CSS, HTML and more. His heart resides in his birthplace of Ginzan Onsen, but his mind and body are located in the West._
 
-_Tatsuhiro S. is also involved in the project. He is a friend of Katsuo and longtime cryptocurrency-enthusiast. Tatsuhiro is also the creator of [Hikikomori Token (HIKI)](https://hikitoken.com) on the Binance Smart Chain._
+_Tatsuhiro S. is also involved in the project. He is a friend of Katsuo and longtime cryptocurrency-enthusiast. Tatsuhiro is the creator of [Hikikomori Token (HIKI)](https://hikitoken.com) on the Binance Smart Chain._
 
 [Scroll to top](#)
 
